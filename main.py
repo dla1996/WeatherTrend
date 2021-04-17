@@ -2,7 +2,6 @@ import os
 
 import pandas
 import matplotlib.pyplot as plt
-import seaborn
 
 def main():
     cwd = os.getcwd()
